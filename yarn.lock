@@ -219,10 +219,10 @@ ipaddr.js@1.9.1:
   resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-1.9.1.tgz#bff38543eeb8984825079ff3a2a8e6cbd46781b3"
   integrity sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g==
 
-jsste@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/jsste/-/jsste-1.2.2.tgz#7704bbc92d2899d40c6fefc905c6858c4c7a1d70"
-  integrity sha512-bJ5yr8T9TNoA3JC27gzihQvVCQWdjtv5mYjbztB6KpaQlmKFu4G2RUet4asUH7pgZticHX0E6o0J7cSY05OAug==
+jsste@^1.3.3:
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/jsste/-/jsste-1.3.3.tgz#a673b17150e8a06f965d5a3893788251296a581e"
+  integrity sha512-INSZSJtjUL5Be7Z7bPWjrn/Zdoe7H+CwJ6ez6Oy/0p8huAwg8JotJ+nnPiwhcBiaYcPsvkWQAcFk1feK94ENaQ==
 
 media-typer@0.3.0:
   version "0.3.0"
